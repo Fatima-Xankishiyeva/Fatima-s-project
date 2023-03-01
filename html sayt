@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+ <head>
+     <title>ENG-30's website</title>
+     <meta charset="UTF-8" />
+     <meta name="keywords" content="students' name" />
+     <meta name="author" content="Xankishiyeva Fatima" />
+ </head>
+
+ <body style="background-color: rgba(226, 186, 224, 0.342);">
+    <h1 style="color: black;font-size: 40px;" > ENG-30 students</h1>
+    <p style="font-size: 25px; font-style: italic;">
+        All students' name list:
+        <ol>
+            <li> <a href="">Tagizada Nihat</a> </li>
+            <li> <a href="">Mammadzada Gunel</a> </li>
+            <li> <a href="">Ahmadova Aytan</a> </li>
+            <li> <a href="">Zakariyayev Mahabbat</a> </li>
+            <li> <a href="">Huseynli Fidan</a> </li>
+            <li> <a href="">Musayeva Aydan</a> </li>
+            <li> <a href="">Mammadova Dilafruz</a> </li>
+            <li> <a href="">Soltanov Emin</a> </li>
+            <li> <a href="">Karimli Fidan</a> </li>
+            <li> <a href="">Ismayilov Shahin</a> </li>
+            <li> <a href="">Abdurahimli Mahir</a> </li>
+            <li> <a href="">Hazizada Madina</a> </li>
+            <li> <a href="">Huseynli Turac</a> </li>
+            <li> <a href="">Nasrullayeva Aydan</a> </li>
+            <li> <a href="">Qafarov Ismayil</a> </li>
+            <li> <a href="">Sarkarov Elvin</a> </li>
+            <li> <a href="">Xankishiyeva Fatima</a> </li>
+            <li> <a href="">Mirzayeva Asmar</a> </li>
+            <li> <a href="">Alizada Turkan</a> </li>
+            <li> <a href="">Nagili Annagi</a> </li>
+            <li> <a href="">Rzazada Zahra</a> </li>
+            <li> <a href="">Abbasov Asad</a> </li>
+            <li> <a href="">Mammadov Nariman</a> </li>
+            <li> <a href="">Heybatova Maleyka</a> </li>
+            <li> <a href="">Ndenneh Chubu</a> </li>
+        </ol>
+    </p>
+ </body>
+</html>
